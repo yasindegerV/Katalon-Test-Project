@@ -27,10 +27,5 @@ WebUI.click(findTestObject('Object Repository/Page_Google/input_Sil_btnK'))
 
 WebUI.click(findTestObject('Object Repository/Page_logo yazlm - Googleda Ara/span_Logo Yazlm - Logo Fiyatlar 2022 nceleyin'))
 
-WebUI.click(findTestObject('Object Repository/Page_Logo Yazlm  Kurumsal  Yazlmlar  444 56 46/span_Bilgi talebi'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Logo Yazlm  Kurumsal  Yazlmlar  444 56 46/h3_LOGO Yazlm hakkndaki sorularnz ve talepl_e30c33'), 
-    'LOGO Yazılım hakkındaki sorularınız ve talepleriniz için')
-
 WebUI.closeBrowser()
 
