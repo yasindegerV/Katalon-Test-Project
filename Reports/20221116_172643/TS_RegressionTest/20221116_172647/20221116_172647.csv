@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_RegressionTest,,,,2022-11-16 17:26:53,2022-11-16 17:27:05,12.376s,FAILED
+,,,,,,,
+Test Cases/logoTest,,,,2022-11-16 17:26:54,2022-11-16 17:27:05,11.517s,FAILED
+"openBrowser("""")",,,,2022-11-16 17:26:54,2022-11-16 17:27:05,10.700s,FAILED
