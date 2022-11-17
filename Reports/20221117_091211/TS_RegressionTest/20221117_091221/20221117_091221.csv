@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_RegressionTest,Chrome 107.0.0.0,,,2022-11-17 09:12:25,2022-11-17 09:13:30,1m - 5.289s,PASSED
+,,,,,,,
+Test Cases/logoTest,Chrome 107.0.0.0,,,2022-11-17 09:12:26,2022-11-17 09:13:30,1m - 4.664s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-11-17 09:12:26,2022-11-17 09:12:40,13.462s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-17 09:12:40,2022-11-17 09:12:40,0.304s,PASSED
+"navigateToUrl(""https://www.google.com"")",Chrome 107.0.0.0,,,2022-11-17 09:12:40,2022-11-17 09:12:47,6.567s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""logo yazılım"")",Chrome 107.0.0.0,,,2022-11-17 09:12:47,2022-11-17 09:12:49,2.520s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/input_Sil_btnK""))",Chrome 107.0.0.0,,,2022-11-17 09:12:49,2022-11-17 09:13:02,13.245s,PASSED
+"click(findTestObject(""Object Repository/Page_logo yazlm - Googleda Ara/span_Logo Yazlm - Logo Fiyatlar 2022 nceleyin""))",Chrome 107.0.0.0,,,2022-11-17 09:13:02,2022-11-17 09:13:30,27.461s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-17 09:13:30,2022-11-17 09:13:30,0.530s,PASSED

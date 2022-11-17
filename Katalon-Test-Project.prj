@@ -6,6 +6,7 @@
    <UUID>c3e56f8b-ae81-493b-ab83-aea01bca38d0</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/virgosol/git/Katalon-Test-Projects/Katalon-Test-Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
